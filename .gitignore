@@ -1,5 +1,7 @@
 node_modules/
 .idea/
+mongo-volume/
 package-lock.json
 yarn.lock
 .eslintcache
+.build/
